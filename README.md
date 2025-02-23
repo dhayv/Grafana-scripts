@@ -32,7 +32,7 @@ This project demonstrates how to:
 
 ## Quick Reference Commands
 
-Find all necessary commands in [commands.md](commands.md). These commands complement the detailed tutorial and provide a quick reference for:
+Find all necessary commands in [commands.sh](commands.sh). These commands complement the detailed tutorial and provide a quick reference for:
 
 Key commands used in this setup are documented in `commands.md`. This includes:
 - Installation commands
