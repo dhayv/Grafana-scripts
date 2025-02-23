@@ -4,7 +4,7 @@ A guide for deploying Grafana on an Amazon EC2 instance and configuring it to mo
 
 For a detailed step-by-step guide, check the accompanying blog post [Dev.to Tutorial](YOUR_DEV.TO_LINK_HERE)
 
-You can find all necessary commands in [commands.sh](commands.sh). These commands complement the detailed tutorial and provide a quick reference for:
+You can find all necessary commands in [commands.sh](commands.sh). These commands complement the detailed tutorial and provide a quick reference.
 
 ## Overview
 
